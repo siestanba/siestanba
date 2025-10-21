@@ -24,6 +24,16 @@ My Resume: add_link_to_cv
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" alt="MATLAB" />
+<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/-MediaPipe-7B7B7B?style=flat&logo=google&logoColor=white" alt="MediaPipe" />
+<img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/-Signal%20Processing-990000?style=flat&logo=gnu&logoColor=white" alt="Signal Processing" />
+<img src="https://img.shields.io/badge/-API-005571?style=flat&logo=fastapi&logoColor=white" alt="API" />
+
 
 ## **🎓 Education**
 
