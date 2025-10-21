@@ -4,7 +4,7 @@ Hi there! I'm Sebastian, a computer vision student with a passion for experiment
 
 My Resume: add_link_to_cv
 
-## **Interests 🛰️**
+## **🛰️ Interests**
 
 - Computer Vision concepts: detection, recognition, tracking, 3D reconstruction
 - Signal processing (audio/image)
@@ -12,7 +12,7 @@ My Resume: add_link_to_cv
 
 
 ---
-## **Projects 🪼**
+## **🪼 Projects**
 
 | **Nom du Projet**               | **Description**                                                                 | **Technos**          | **Lien**                          |
 |----------------------------------|-------------------------------------------------------------------------------|-----------------------|-----------------------------------|
@@ -21,14 +21,12 @@ My Resume: add_link_to_cv
 | **Horaires-API-TBM**            | Récupération des horaires de tram en temps réel (API TBM)                    | Python, Requests      | [🔗](https://github.com/siestanba/Horaires-API-TBM) |
 | **Number-Audio-Detection**      | Détection de chiffres dans des fichiers audio (MATLAB)                      | MATLAB, Signal Processing | [🔗](https://github.com/siestanba/Number-Audio-Detection) |
 
-*Badges pour les langages*
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 ---
-## **🎓 Formation**
-*(Indique ton parcours académique si pertinent.)*
+## **🎓 Education**
 
 - **202X - Présent** : [Ton École/Université] – [Ta Formation]
   *(Ex: "2022 - 2025 : Télécom Paris – Ingénierie Informatique, spécialisation Vision par Ordinateur")*
@@ -36,7 +34,7 @@ My Resume: add_link_to_cv
   *(Ex: "2020 - 2022 : Classe Prépa MP – Lycée Louis-le-Grand")*
 
 ---
-## **📫 Me Contacter**
+## **📫 Contact**
 
 - **LinkedIn** : [Linkedin]([https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/sebastian-straut/)/)
 
@@ -50,6 +48,6 @@ My Resume: add_link_to_cv
 | **Canva** | [https://www.canva.com/](https://www.canva.com/) | Créer un banner personnalisé. |
 | **Typora** | [https://typora.io/](https://typora.io/) | Éditeur Markdown simple et efficace. |
 
-## Also ☝️
+##☝️ Also
 ---
 I like creating things with my hands, i also enjoy climbing and a good coffee
