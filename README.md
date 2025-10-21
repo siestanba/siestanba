@@ -26,8 +26,8 @@ My Resume: add_link_to_cv
 
 ## **🎓 Education**
 
-- **2025 - Présent** : [University Paris Cité] – [Mathematics, Computer Vision]
-- **2022 - 2025** : [University of Bordeaux] - Cognitive Science Bachelor
+- **2025 - Présent** : Mathematics and Computer Vision Master's degree at University Paris Cité 
+- **2022 - 2025** : Bachelor's degree in cognitive sciences at University of Bordeaux
 
 ## **🕊️ Contact**
 
