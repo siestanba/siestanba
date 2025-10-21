@@ -12,12 +12,12 @@ My Resume: add_link_to_cv
 
 ## **🪼 Projects**
 
-| **Project**               | **Description**                                                                 | **Technos**          | 
-|----------------------------------|-------------------------------------------------------------------------------|-----------------------|
-| [**Volume control by hand tracking**](https://github.com/siestanba/HandTracking-VolumeMaster)    | Contrôle du volume système via gestes (MediaPipe + Python)                   | Python, OpenCV        |
-| **TER-Reconstitution-Images**    | Reconstruction d'images via chaînes de Markov (Jupyter Notebook)               | Python, NumPy         |
-| **Horaires-API-TBM**            | Récupération des horaires de tram en temps réel (API TBM)                    | Python, Requests      |
-| **Number-Audio-Detection**      | Détection de chiffres dans des fichiers audio (MATLAB)                      | MATLAB, Signal Processing |
+| **Project**               | **Description**                                                                 |
+|----------------------------------|-------------------------------------------------------------------------------|
+| [**Volume control by hand tracking**](https://github.com/siestanba/HandTracking-VolumeMaster)    |Gesture based volume of the PC's sound volume|
+| **TER-Reconstitution-Images**    | Reconstruction d'images via chaînes de Markov (Jupyter Notebook)           |
+| **Horaires-API-TBM**            | Récupération des horaires de tram en temps réel (API TBM)                   |
+| **Number-Audio-Detection**      | Détection de chiffres dans des fichiers audio (MATLAB)                      |
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
