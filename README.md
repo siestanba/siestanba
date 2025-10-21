@@ -14,10 +14,11 @@ My Resume: add_link_to_cv
 
 | **Project**               | **Description**                                                                 |
 |----------------------------------|-------------------------------------------------------------------------------|
+| [**Neueal Compression**](https://github.com/siestanba/Neural_BTF)      | Détection de chiffres dans des fichiers audio (MATLAB)                      |
 | [**Volume control by hand tracking**](https://github.com/siestanba/HandTracking-VolumeMaster)    |Gesture based volume of the PC's sound volume|
-| **TER-Reconstitution-Images**    | Reconstruction d'images via chaînes de Markov (Jupyter Notebook)           |
-| **Horaires-API-TBM**            | Récupération des horaires de tram en temps réel (API TBM)                   |
-| **Number-Audio-Detection**      | Détection de chiffres dans des fichiers audio (MATLAB)                      |
+| [**Image reconstruction**](https://github.com/siestanba/TER-Reconstitution-Images-Markov)    | Image reconstruction via Markov chains           |
+| [**Phone number recognition**](https://github.com/siestanba/Number-Audio-Detection)      | Détection de chiffres dans des fichiers audio (MATLAB)                      |
+| [**Bus arrival API**](https://github.com/siestanba/Horaires-API-TBM)            | Récupération des horaires de tram en temps réel (API TBM)                   |
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
