@@ -14,11 +14,11 @@ My Resume: add_link_to_cv
 
 | **Project**               | **Description**                                                                 |
 |----------------------------------|-------------------------------------------------------------------------------|
-| [**Neueal Compression**](https://github.com/siestanba/Neural_BTF)      | Détection de chiffres dans des fichiers audio (MATLAB)                      |
-| [**Volume control by hand tracking**](https://github.com/siestanba/HandTracking-VolumeMaster)    |Gesture based volume of the PC's sound volume|
-| [**Image reconstruction**](https://github.com/siestanba/TER-Reconstitution-Images-Markov)    | Image reconstruction via Markov chains           |
-| [**Phone number recognition**](https://github.com/siestanba/Number-Audio-Detection)      | Détection de chiffres dans des fichiers audio (MATLAB)                      |
-| [**Bus arrival API**](https://github.com/siestanba/Horaires-API-TBM)            | Récupération des horaires de tram en temps réel (API TBM)                   |
+| [**BTF Neueral Compression**](https://github.com/siestanba/Neural_BTF)      | Neural network-based compression model for Bidirectional Texture Functions (BTFs), reducing storage requirements while preserving visual fidelity                      |
+| [**Gesture based volume control**](https://github.com/siestanba/HandTracking-VolumeMaster)    | Gesture based volume of the PC's sound volume|
+| [**Image Reconstruction via Markov Chains**](https://github.com/siestanba/TER-Reconstitution-Images-Markov)    | Image reconstruction via Markov chains           |
+| [**Audio digit recognition**](https://github.com/siestanba/Number-Audio-Detection)      | Détection de chiffres dans des fichiers audio (MATLAB)                      |
+| [**Real time bus arrival API**](https://github.com/siestanba/Horaires-API-TBM)            | Récupération des horaires de tram en temps réel (API TBM)                   |
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
