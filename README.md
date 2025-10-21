@@ -12,7 +12,7 @@ My Resume: add_link_to_cv
 
 ## **🪼 Projects**
 
-| **Nom du Projet**               | **Description**                                                                 | **Technos**          | **Lien**                          |
+| **Project**               | **Description**                                                                 | **Technos**          | **Link**                          |
 |----------------------------------|-------------------------------------------------------------------------------|-----------------------|-----------------------------------|
 | **HandTracking-VolumeMaster**    | Contrôle du volume système via gestes (MediaPipe + Python)                   | Python, OpenCV        | [🔗](https://github.com/siestanba/HandTracking-VolumeMaster) |
 | **TER-Reconstitution-Images**    | Reconstruction d'images via chaînes de Markov (Jupyter Notebook)               | Python, NumPy         | [🔗](https://github.com/siestanba/TER-Reconstitution-Images-Markov) |
@@ -26,17 +26,13 @@ My Resume: add_link_to_cv
 
 ## **🎓 Education**
 
-- **202X - Présent** : [Ton École/Université] – [Ta Formation]
-  *(Ex: "2022 - 2025 : Télécom Paris – Ingénierie Informatique, spécialisation Vision par Ordinateur")*
-- **20XX - 20XX** : [Précédente Formation]
-  *(Ex: "2020 - 2022 : Classe Prépa MP – Lycée Louis-le-Grand")*
+- **2025 - Présent** : [University Paris Cité] – [Mathematics, Computer Vision]
+- **2022 - 2025** : [University of Bordeaux] - Cognitive Science Bachelor
 
-
-## **📫 Contact**
+## **🕊️ Contact**
 
 - **LinkedIn** : [Linkedin]([https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/sebastian-straut/)/)
 
 
 ## ☝️ Also
----
 I like creating things with my hands, i also enjoy climbing and a good coffee
