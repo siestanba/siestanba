@@ -14,11 +14,11 @@ My Resume: add_link_to_cv
 
 | **Project**               | **Description**                                                                 |
 |----------------------------------|-------------------------------------------------------------------------------|
-| [**BTF Neueral Compression**](https://github.com/siestanba/Neural_BTF)      | Neural network-based compression model for Bidirectional Texture Functions (BTFs), reducing storage requirements while preserving visual fidelity                      |
-| [**Gesture based volume control**](https://github.com/siestanba/HandTracking-VolumeMaster)    | Gesture based volume of the PC's sound volume|
-| [**Image Reconstruction via Markov Chains**](https://github.com/siestanba/TER-Reconstitution-Images-Markov)    | Image reconstruction via Markov chains           |
-| [**Audio digit recognition**](https://github.com/siestanba/Number-Audio-Detection)      | Détection de chiffres dans des fichiers audio (MATLAB)                      |
-| [**Real time bus arrival API**](https://github.com/siestanba/Horaires-API-TBM)            | Récupération des horaires de tram en temps réel (API TBM)                   |
+| [**Neueral based Texture Compression**](https://github.com/siestanba/Neural_BTF)      | Neural network-based compression model for Bidirectional Texture Functions (BTFs), reducing storage requirements while preserving visual fidelity                      |
+| [**Gesture based Volume Control**](https://github.com/siestanba/HandTracking-VolumeMaster)    | Real-time hand-tracking system using MediaPipe and OpenCV to control PC volume via gestures|
+| [**Image Reconstruction via Markov Chains**](https://github.com/siestanba/TER-Reconstitution-Images-Markov)    | Applied Markov chains to reconstruct images from partial or corrupted data           |
+| [**Audio digit recognition**](https://github.com/siestanba/Number-Audio-Detection)      | Phone number recognition system in MATLAB to detect digits (0-9) from audio files                      |
+| [**Real time bus arrival API**](https://github.com/siestanba/Horaires-API-TBM)            | Fetch and display real-time tram/bus schedules using the TBM API (Bordeaux public transport)|
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
