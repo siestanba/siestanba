@@ -10,8 +10,6 @@ My Resume: add_link_to_cv
 - Signal processing (audio/image)
 - Programming in Java, C++, Python, Web
 
-
----
 ## **🪼 Projects**
 
 | **Nom du Projet**               | **Description**                                                                 | **Technos**          | **Lien**                          |
@@ -25,7 +23,7 @@ My Resume: add_link_to_cv
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
----
+
 ## **🎓 Education**
 
 - **202X - Présent** : [Ton École/Université] – [Ta Formation]
@@ -33,21 +31,12 @@ My Resume: add_link_to_cv
 - **20XX - 20XX** : [Précédente Formation]
   *(Ex: "2020 - 2022 : Classe Prépa MP – Lycée Louis-le-Grand")*
 
----
+
 ## **📫 Contact**
 
 - **LinkedIn** : [Linkedin]([https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/sebastian-straut/)/)
 
----
-## **4. Outils Utiles**
-| Outil | Lien | Utilité |
-|-------|------|---------|
-| **Shields.io** | [https://shields.io/](https://shields.io/) | Créer des badges pour tes compétences. |
-| **Emoji Cheat Sheet** | [https://github.com/ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) | Trouver des emojis pour ton Markdown. |
-| **GitHub Readme Stats** | [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | Afficher tes stats GitHub (commits, langages, etc.). |
-| **Canva** | [https://www.canva.com/](https://www.canva.com/) | Créer un banner personnalisé. |
-| **Typora** | [https://typora.io/](https://typora.io/) | Éditeur Markdown simple et efficace. |
 
-##☝️ Also
+## ☝️ Also
 ---
 I like creating things with my hands, i also enjoy climbing and a good coffee
