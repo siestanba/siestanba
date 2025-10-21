@@ -27,8 +27,8 @@ My Resume: add_link_to_cv
 
 ## **✉️ Contact**
 
-- **LinkedIn** : [Linkedin]([https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/sebastian-straut/)/)
+- **LinkedIn** : [Linkedin](https://www.linkedin.com/in/sebastian-straut/)
 
 
 ## ☝️ Also
-I enjoy creating things with my hands (arduino projects, gardening, good meals), also i enjoy climbing and a good coffee
+I love trying out new things (arduino projects, gardening, good meals), also i enjoy climbing
