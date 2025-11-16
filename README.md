@@ -28,7 +28,7 @@ My Resume: [myCv.pdf](https://sebastian.cafe/assets/cv.pdf)
 ## **✉️ Contact**
 
 - **LinkedIn** : [Linkedin](https://www.linkedin.com/in/sebastian-straut/)
-- **eMail** : sebastian.s.straut@protonmail.com
+- **email** : sebastian.s.straut@protonmail.com
 
 
 ## ☝️ Also
