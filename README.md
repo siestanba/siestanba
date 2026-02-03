@@ -3,6 +3,7 @@
 Hi there! I'm Sebastian, a computer vision student with a passion for experimenting with various signal processing concepts. Currently pursuing my studies at Paris Cité, specializing in computer vision.
 
 My Resume: [myCv.pdf](https://sebvstian.cafe/assets/cv.pdf)
+My Piece of Web: [here]([https://sebvstian.cafe/)
 
 ## **🛰️ Interests**
 
