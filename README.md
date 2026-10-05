@@ -23,7 +23,8 @@ My Piece of Web: [dive in](https://sebvstian.cafe/)
 
 ## **🎓 Education**
 
-- **2025 - Présent** : Mathematics and Computer Vision Master's degree at University Paris Cité 
+- **2026 - 2027** : Mathematics, Vision and ML Master's degree at ENS Saclay 
+- **2025 - 2026** : Mathematics and Computer Vision Master's degree at University Paris Cité 
 - **2022 - 2025** : Bachelor's degree in cognitive sciences at University of Bordeaux
 
 ## **✉️ Contact**
